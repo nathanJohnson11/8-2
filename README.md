@@ -1,6 +1,6 @@
 # 8-2 Journal: Portfolio Submission
 
-#Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 The client, known as The Gaming Room, was a company specializing in mobile app game development. They had previously achieved success by launching a puzzle competition game on the Android platform. Their goal was to expand their game's reach and accessibility by creating a web-based version of their existing Android app. The client required a software solution that would allow their game to be played on various platforms and devices, not just limited to Android. This involved designing a web-based application that would replicate the gameplay and features of their existing mobile app, enabling users to enjoy the game on desktop computers, laptops, and other devices with internet access.
 
